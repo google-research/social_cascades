@@ -1,6 +1,6 @@
-# Widget frobulator
+# Social Cascades
 
-This project is all about frobulating cool new widgets.
+Code for studies on cascades in online social ecosystems. Currently there is one active study, `news`.
 
 ## Contributing
 
